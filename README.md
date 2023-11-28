@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Go face detection
 
 This repository contains code of a learning project called: "Go face detection".
